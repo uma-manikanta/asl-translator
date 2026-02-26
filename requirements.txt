@@ -3,3 +3,4 @@ opencv-python
 pandas
 scikit-learn
 mediapipe==0.10.21
+ipywidgets
